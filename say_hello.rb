@@ -1,4 +1,5 @@
 # Build your s
 
-def say_hello(name)
-  puts
+def say_hello("Kent Beck")
+  puts "Hello Kent Beck"
+end
