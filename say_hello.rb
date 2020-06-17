@@ -2,3 +2,4 @@
 
 def say_hello("Kent Beck")
   "Hello, #{name}!"
+end
